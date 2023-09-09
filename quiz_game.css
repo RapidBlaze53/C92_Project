@@ -1,0 +1,33 @@
+body
+{
+	background: orange;
+	text-align: center;
+    margin:0 auto;
+
+}
+
+	#div1 , #div2
+	{
+		background: crimson;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		
+
+	}
+
+	#watermelon {
+	display: inline-block;
+	height: 200px;
+	width:200px
+	
+	}
+
+	#output {
+	background:white;
+	border-radius: 10px;
+	border-top: 10px solid #aa4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	}
